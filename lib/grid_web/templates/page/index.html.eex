@@ -1,35 +1,46 @@
-<section class="phx-hero">
-  <h2><%= gettext "Welcome to %{name}!", name: "Phoenix" %></h2>
-  <p>A productive web framework that<br/>does not compromise speed and maintainability.</p>
-</section>
-
-<section class="row">
-  <article class="column">
-    <h4>Resources</h4>
-    <ul>
-      <li>
-        <a href="https://hexdocs.pm/phoenix/overview.html">Guides &amp; Docs</a>
-      </li>
-      <li>
-        <a href="https://github.com/phoenixframework/phoenix">Source</a>
-      </li>
-      <li>
-        <a href="https://github.com/phoenixframework/phoenix/blob/v1.3/CHANGELOG.md">v1.3 Changelog</a>
-      </li>
-    </ul>
-  </article>
-  <article class="column">
-    <h4>Help</h4>
-    <ul>
-      <li>
-        <a href="https://elixirforum.com/c/phoenix-forum">Forum</a>
-      </li>
-      <li>
-        <a href="https://webchat.freenode.net/?channels=elixir-lang">#elixir-lang on Freenode IRC</a>
-      </li>
-      <li>
-        <a href="https://twitter.com/elixirphoenix">Twitter @elixirphoenix</a>
-      </li>
-    </ul>
-  </article>
-</section>
+<div class="the-table">
+  <div class="product-details">
+    <div class="product-title">Product 1
+      <div class="box"></div>
+    </div>
+    <div class="attribute-detail">Attribute 1</div>
+    <div class="attribute-detail">Attribute 2</div>
+    <div class="attribute-detail">Attribute 3</div>
+    <div class="attribute-detail">Attribute 4
+      <div class="big-box"></div>
+    </div>
+    <div class="attribute-detail">Attribute 5</div>
+  </div>
+  <div class="product-details">
+    <div class="product-title">Product 2
+      <div class="box"></div>
+    </div>
+    <div class="attribute-detail">Attribute 1</div>
+    <div class="attribute-detail">Attribute 2</div>
+    <div class="attribute-detail">Attribute 3
+      <p>
+        Ipsum eaque labore dolore quo tenetur Voluptatibus voluptatem temporibus iusto ratione voluptas modi Provident repudiandae sint sequi animi assumenda accusamus.
+      </p>
+      
+    </div>
+    <div class="attribute-detail">Attribute 4
+      <div class="big-box"></div>
+    </div>
+    <div class="attribute-detail">Attribute 5</div>
+  </div>
+  <div class="product-details">
+    <div class="product-title">Product 3
+      <div class="box"></div>
+    </div>
+    <div class="attribute-detail">Attribute 1</div>
+    <div class="attribute-detail">Attribute 2</div>
+    <div class="attribute-detail">Attribute 3</div>
+    <div class="attribute-detail">Attribute 4
+      <p>
+        Elit minima corporis delectus expedita earum Nostrum maxime sequi ex amet suscipit Eaque facilis tenetur doloremque illo eveniet Repellat similique provident culpa eaque fugit delectus dolorem Esse elit deserunt enim facilis consectetur amet Voluptatem unde quas dicta adipisci nihil tempora! Qui impedit placeat molestiae ad qui Totam aspernatur perferendis provident repellendus modi ut voluptate Officia ut velit eum perspiciatis obcaecati minima facilis Blanditiis provident vitae totam officiis facilis tempore Dolores eos aut architecto debitis adipisci Vero eius debitis quibusdam in ipsum Dolore magni exercitationem quis repellendus dolorum ad. Ipsa aut ad alias veniam minima Atque voluptates unde laudantium provident eos.
+      </p>
+      
+    </div>
+    <div class="attribute-detail">Attribute 5</div>
+  </div>
+</div>
